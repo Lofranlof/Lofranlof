@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Lofranlof
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  C/C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++
 - 📫 How to reach me lofranlof@gmail.com
 
 <!---
