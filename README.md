@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lofranlof
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java/Python
 - 📫 How to reach me lofranlof@gmail.com
 
 <!---
