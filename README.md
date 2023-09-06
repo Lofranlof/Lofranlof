@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lofranlof
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning .NET C#
 - 📫 How to reach me lofranlof@gmail.com
 
 <!---
