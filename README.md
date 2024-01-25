@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lofranlof
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go and everything DevOps related
 - 📫 How to reach me lofranlof@gmail.com
 
 <!---
